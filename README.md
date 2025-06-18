@@ -8,7 +8,7 @@ Created a dashboard that captures and presents UPI transaction metrics like volu
 
 🛠️ Technology Used:
 
-Power BI, DAX, Excel
+Power BI, DAX, Excel, Python
 
 ✨ Key Features:
 
